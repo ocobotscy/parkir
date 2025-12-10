@@ -1,0 +1,7 @@
+{
+  "name": "Copy of SmartPark AI",
+  "description": "Intelligent parking management system featuring AI-powered license plate recognition and revenue analytics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
